@@ -1,0 +1,8 @@
+hi datamites we are in class
+<<<<<<< HEAD
+helloo bywee 
+howwowooooo
+night sat
+=======
+hello hey hi how are you
+>>>>>>> newbranch
